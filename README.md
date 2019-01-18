@@ -1,0 +1,2 @@
+# Private-Key-for-my-address
+I forgot my encrypted password so i deleted my account and when i tried to recover it it gave me an error, so i created another one and used the same recovery phrase hoping to get my address and funds back but still nothing. i imported the address in blockchain but i can only view it but can't access it since i don't have my private key. I have my wallet ID and an Address where my funds are but i need the private key, how do i go about it?
